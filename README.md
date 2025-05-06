@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dorian144
 - 👀 I’m interested in learning how to code fluetnly
-- 🌱 I’m currently studying in University of Brighton Year 2
+- 🌱 I’m currently studying in University of Brighton Year 3
 - 📫 You can dm me on inst: @dorian.19
 
 <!---
