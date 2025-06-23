@@ -35,7 +35,7 @@ I enjoy solving real-world problems with practical, user-focused solutions. My r
 ### 💻 Projects
 
 🏃‍♂️ [**Fitness Helper**](https://github.com/Dorian144/fitness-helper)  
-> Final Year Project – A full-stack cross-platform mobile app for fitness tracking.  
+> Final Year Project - A full-stack cross-platform mobile app for fitness tracking.  
 > Features Include:
 > 
 > • AI-powered motivational prompts (OpenAI)  
@@ -68,5 +68,5 @@ I enjoy solving real-world problems with practical, user-focused solutions. My r
 
 ### ⚡ Fun Fact
 
-I used to work 12-hour shifts in a furniture production team and traffic control — so I know what real pressure feels like. Now I bring that same grit to software development.
+I used to work 12-hour shifts in a furniture production team and traffic control, so I know what real pressure feels like. Now I bring that same grit to software development.
 
