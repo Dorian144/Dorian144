@@ -1,8 +1,16 @@
 <h1 align="center">Hi there, I'm Dorian Trisca 👋</h1>
-
 <p align="center">
   🎓 Computer Science Graduate | 💻 Junior Developer | 📱 Mobile & Web Dev Enthusiast
 </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorian144&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorian144&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -28,7 +36,8 @@ I enjoy solving real-world problems with practical, user-focused solutions. My r
 
 🏃‍♂️ [**Fitness Helper**](https://github.com/Dorian144/fitness-helper)  
 > Final Year Project – A full-stack cross-platform mobile app for fitness tracking.  
-> Includes:
+> Features Include:
+> 
 > • AI-powered motivational prompts (OpenAI)  
 > • Firebase authentication and password reset  
 > • Workout tracker with daily logs  
