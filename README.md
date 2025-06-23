@@ -40,6 +40,7 @@ I enjoy solving real-world problems with practical, user-focused solutions. My r
 > • Profile management with health goals  
 > • CSV export for workouts and meals
 
+[![YouTube Demo](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://www.youtube.com/live/-0-vHY8tZzU)
 
 💈 [**Buzz & Fade Website**](https://github.com/Dorian144/buzz-and-fade)  
 > A clean, mobile-friendly website for a barbershop in Bognor Regis.  
