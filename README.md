@@ -57,7 +57,7 @@ I enjoy solving real-world problems with user-focused solutions. I’ve recently
 
 ### 📫 How to Reach Me
 
-- 📍 Brighton / Bognor Regis, UK  
+- 📍  Brighton / Bognor Regis, UK  
 - 📧 [dorian.trisca14@gmail.com](mailto:dorian.trisca14@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/Dorian14)  
 - 💻 [GitHub](https://github.com/Dorian144)
