@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dorian Trisca 👋</h1>
 <p align="center">
-  🎓 Computer Science Graduate | 💻 Junior Developer | 🤖 Exploring AI, LLMs & Real-World Applications
+  🎓 Computer Science | 💻 Junior Developer | 🤖 Exploring AI, LLMs & Real-World Applications
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorian144&show_icons=true&theme=github_dark&hide_border=true" />
